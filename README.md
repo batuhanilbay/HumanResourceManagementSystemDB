@@ -1,1 +1,1 @@
-![Diagram](Hrms.png)
+![Diagram](png/Hrms.png)
